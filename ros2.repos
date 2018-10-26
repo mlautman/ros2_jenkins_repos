@@ -246,8 +246,8 @@ repositories:
   ros-visualization/python_qt_binding:
     type: git
     url: https://github.com/ros-visualization/python_qt_binding.git
-    version: ros2_port
+    version: master
   ros-visualization/qt_gui_core:
     type: git
     url: https://github.com/ros-visualization/qt_gui_core.git
-    version: ros2_port
+    version: switch_filesystem_depends
