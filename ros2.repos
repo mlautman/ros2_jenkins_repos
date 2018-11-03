@@ -254,4 +254,4 @@ repositories:
   ros-visualization/rqt:
     type: git
     url: https://github.com/ros-visualization/rqt.git
-    version: rqt_gui_add_testing
+    version: rqt_gui_py_add_testing
