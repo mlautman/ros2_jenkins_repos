@@ -193,8 +193,8 @@ repositories:
     version: 0.5.0
   ros2/rosidl_python:
     type: git
-    url: https://github.com/ros2/rosidl_python.git
-    version: 0.5.2
+    url: https://github.com/PickNikRobotics/rosidl_python.git
+    version: adding-slot-types-to-python-msgs
   ros2/rosidl_typesupport:
     type: git
     url: https://github.com/ros2/rosidl_typesupport.git
