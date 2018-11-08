@@ -254,4 +254,4 @@ repositories:
   ros-visualization/rqt:
     type: git
     url: https://github.com/ros-visualization/rqt.git
-    version: rqt-py-common-port
+    version: rqt-py-common-fixup
