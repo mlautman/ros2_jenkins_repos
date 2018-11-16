@@ -125,8 +125,8 @@ repositories:
     version: 0.5.1
   ros2/rcl_interfaces:
     type: git
-    url: https://github.com/ros2/rcl_interfaces.git
-    version: 0.5.0
+    url: https://github.com/picknikrobotics/rcl_interfaces.git
+    version: log-msg
 #  ros2/rclc:
 #    type: git
 #    url: https://github.com/ros2/rclc.git
